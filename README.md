@@ -1,4 +1,4 @@
-qara buni boshqadan yoz men usernameni diyor-ai ga o'zgartirdim
+
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Mukhammaddiyor Abdulazimov</h1>
 <h3 align="center">AI Student | Full Stack Developer | Future AI Engineer</h3>
