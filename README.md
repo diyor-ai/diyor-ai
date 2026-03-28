@@ -1,6 +1,6 @@
 <!-- 🌟 Profile Header -->
 <h1 align="center">Hi 👋, I'm Mukhammaddiyor Abdulazimov</h1>
-<h3 align="center">🤖 AI Student | Full Stack Developer | Future AI Engineer</h3>
+<h3 align="center">🤖 AI Product Engineer | Full Stack Developer | Future AI Engineer</h3>
 
 <p align="center">
   <em>"Code with precision, innovate with passion."</em>
