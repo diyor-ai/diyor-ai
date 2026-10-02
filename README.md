@@ -1,92 +1,38 @@
-<!-- 🌟 Profile Header -->
-<h1 align="center">Hi 👋, I'm Mukhammaddiyor Abdulazimov</h1>
-<h3 align="center">🤖 AI Product Engineer | Full Stack Developer | Future AI Engineer</h3>
+## Hi, I'm Mukhammaddiyor 👋
 
-<p align="center">
-  <em>"Code with precision, innovate with passion."</em>
-</p>
+AI student at **Harbin Engineering University** (China) with **2+ years of commercial full-stack experience** (PHP, Laravel, Symfony, Vue.js).
+I build AI features that actually ship: computer vision, ML models and LLM tools on top of production-ready web backends.
 
----
-
-### 🧠 About Me
-🎓 **AI Student** at *Harbin Engineering University* (2024–2028)  
-💻 Former **Full Stack Web Developer** (2+ years of experience in PHP, Laravel, Symfony, Vue.js)  
-🚀 Now focusing on **Machine Learning, Deep Learning, and AI Systems Development**  
-🌱 Passionate about creating **intelligent, data-driven solutions**  
-🎯 Goal: Become a professional **AI Engineer** capable of solving real-world challenges through technology  
+🎯 **Open to:** AI engineering and full-stack internships (remote or in China)
+📫 **Contact:** diyordevwork@gmail.com · [LinkedIn](https://www.linkedin.com/in/muhammaddiyorabdulazimov)
 
 ---
 
-### ⚙️ Tech Stack
+### 🔨 Featured projects
 
-**AI & Data Science:**  
-`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn` • `PyTorch`
-
-**Backend:**  
-`PHP` • `Laravel` • `Symfony` • `Redis` • `RESTful APIs`
-
-**Frontend:**  
-`Vue.js` • `HTML` • `CSS` • `JavaScript` • `Bootstrap`
-
-**Database:**  
-`MySQL` • `Query Optimization` • `Data Modeling`
-
-**DevOps:**  
-`Docker` • `Git` • `GitLab CI/CD` • `Linux` • `CRON Jobs`
-
----
-
-### 📚 Currently Learning
-📘 Machine Learning Fundamentals  
-🧩 Neural Networks & Deep Learning (PyTorch)  
-📊 Data Analysis & Visualization  
-🧠 AI Project Deployment & Optimization  
+| Project | What it does | Stack |
+|---|---|---|
+| [**Gesture Control System**](https://github.com/diyor-ai/gesture-control-system) | Control your computer with 14 hand gestures in real time (≥30 FPS, 2 hands) using a regular webcam | Python, MediaPipe, OpenCV |
+| [**Uz Sales Bot**](https://github.com/diyor-ai/uz-sales-bot) | Telegram sales bot for Uzbek shops: answers customers in seconds instead of 45–180 minutes, 3 languages, multi-shop | Python, Telegram API, Google Sheets |
+| [**European Housing Intuition**](https://github.com/diyor-ai/european-housing-intuition) | Price prediction on ~10k listings; cut MAE from €50k to €42.5k and measured a +21% urban-vs-suburban error gap caused by dataset bias | NumPy, Pandas, scikit-learn |
+| [**Pro Bot**](https://github.com/diyor-ai/pro-bot) | E-commerce Telegram bot with admin panel, order tracking and fuzzy product search | Python, Docker, Google Sheets |
 
 ---
 
 ### 💼 Experience
-**KadirovDevOrg** — Web Developer *(2023–2024)*  
-**TimuridDevs** — Full Stack Developer *(2022–2023)*  
 
-Contributed to backend scalability, database optimization, and modern web UI development.  
+- **Kadirov.DEV** — Web Developer (2023–2024)
+- **TimuridDevs** — Full-Stack Developer (2022–2023)
 
----
-
-### 🪄 Featured Projects
-- 🐔 [ChickenFarm Management System](#) — full-stack management system *(Laravel + Vue.js)*  
-- 🎓 [Certificate Management Platform](#) — responsive certificate creation & verification *(Vue.js + Bootstrap)*  
+Built and maintained Laravel / Symfony backends and Vue.js frontends, REST APIs, MySQL schemas and Docker-based deployments.
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Tech stack
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=diyor-ai&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=diyor-ai&theme=radical&hide_border=true" />
-</p>
+**AI / ML:** Python · PyTorch · scikit-learn · NumPy · Pandas · OpenCV · MediaPipe
+**Backend:** PHP · Laravel · Symfony · REST APIs · MySQL · Redis
+**Frontend:** Vue.js · JavaScript · HTML/CSS
+**Tools:** Docker · Git · GitLab CI/CD · Linux
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyor-ai&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diyor-ai&theme=radical" />
-</p>
-
----
-
-### 🌍 Languages
-🇺🇿 Uzbek • 🇹🇷 Turkish • 🇬🇧 English • 🇷🇺 Russian • 🇨🇳 Chinese  
-
----
-
-### 📫 Connect With Me
-📧 **diorkh07@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/muhammaddiyor-abdulazimov-14b6ba223)  
-💻 [GitHub](https://github.com/diyor-ai)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diyor-ai&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+🌍 Uzbek · Turkish · English · Russian · Chinese (basic)
