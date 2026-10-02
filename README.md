@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 🎓 **AI Student** at *Harbin Engineering University* (2024–2028)  
-💻 Former **Full Stack Web Developer** (3+ years of experience in PHP, Laravel, Symfony, Vue.js)  
+💻 Former **Full Stack Web Developer** (2+ years of experience in PHP, Laravel, Symfony, Vue.js)  
 🚀 Now focusing on **Machine Learning, Deep Learning, and AI Systems Development**  
 🌱 Passionate about creating **intelligent, data-driven solutions**  
 🎯 Goal: Become a professional **AI Engineer** capable of solving real-world challenges through technology  
