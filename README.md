@@ -16,6 +16,7 @@ I build AI products end to end, from the architecture to testing on real devices
 | [**Gesture Control System**](https://github.com/diyor-ai/gesture-control-system) | Control the computer with hand gestures from a regular webcam: cursor, clicks, scroll, volume, media, screenshots. Edge-triggered clicks, per-hand stability layer, palm-length–normalised thresholds, Wayland support through a uinput virtual pointer. 29.9 FPS on CPU, 189 tests. | Python, MediaPipe, OpenCV |
 | [**Ames House Price Prediction**](https://github.com/diyor-ai/house-price-prediction) | Leakage-safe ML pipeline with nested cross-validation and a single test evaluation (MAE $16.4k, R² 0.875), plus error analysis showing that 3% of houses cause 49% of the error. | scikit-learn, pandas |
 | [**Pro-Bot**](https://github.com/diyor-ai/pro-bot) | Telegram shop bot in Uzbek, Russian and English with Google Sheets as the database: catalog, fuzzy search, validated orders, admin panel, broadcast. Tested end to end on a real bot; 82 tests and CI. | Python, python-telegram-bot, Google Sheets |
+| [**Laravel Blog**](https://github.com/diyor-ai/laravel-blog) | Laravel course project, then reviewed and hardened: found and fixed 11 issues (incl. missing authorization on post updates), upgraded from end-of-life Laravel 11 to 12 with a clean security audit, added 44 feature tests and CI. | PHP, Laravel 12, PHPUnit |
 
 ---
 
