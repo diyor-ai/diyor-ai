@@ -31,9 +31,9 @@ Built and maintained Laravel / Symfony backends and Vue.js frontends, REST APIs,
 
 ### 🧰 Tech stack
 
-**AI / ML:** Python · LLM APIs (Claude, structured output) · scikit-learn · PyTorch · NumPy · Pandas · OpenCV · MediaPipe
-**Backend:** FastAPI · PHP · Laravel · Symfony · PostgreSQL · MySQL · REST · WebSocket
-**Frontend & mobile:** React · TypeScript · Vue.js · Flutter
-**Engineering:** pytest · GitHub Actions · Docker · Git · Linux · AI coding agents (Claude Code)
+- **AI / ML:** Python · LLM APIs (Claude, structured output) · scikit-learn · PyTorch · NumPy · Pandas · OpenCV · MediaPipe
+- **Backend:** FastAPI · PHP · Laravel · Symfony · PostgreSQL · MySQL · REST · WebSocket
+- **Frontend & mobile:** React · TypeScript · Vue.js · Flutter
+- **Engineering:** pytest · GitHub Actions · Docker · Git · Linux · AI coding agents (Claude Code)
 
 🌍 Uzbek · Turkish · English · Russian · Chinese (basic)
