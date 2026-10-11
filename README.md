@@ -1,6 +1,6 @@
 ## Hi, I'm Mukhammaddiyor 👋
 
-AI student at **Harbin Engineering University** (China) with **2+ years of commercial full-stack experience** (PHP, Laravel, Symfony, Vue.js).
+AI student at **Harbin Engineering University** (China) with **2+ years of full-stack experience on real client projects** (PHP, Laravel, Symfony, Vue.js).
 I build AI products end to end, from the architecture to testing on real devices, and I document results honestly: measured, tested, limitations included.
 
 - 🎯 **Open to:** AI / ML engineering and full-stack internships (remote or in China)
@@ -22,10 +22,9 @@ I build AI products end to end, from the architecture to testing on real devices
 
 ### 💼 Experience
 
-- **Kadirov.DEV** — Web Developer (2023–2024)
-- **TimuridDevs** — Full-Stack Developer (2022–2023)
-
-Built and maintained Laravel / Symfony backends and Vue.js frontends, REST APIs, MySQL schemas and Docker-based deployments.
+- **Kadirov.DEV** — Full-Stack Developer, apprenticeship (Mar 2023 – Aug 2025; remote and part-time from Sep 2024)
+  Client web projects: Symfony / Laravel REST APIs, Vue.js front-ends, Docker, GitLab merge requests and CI.
+- Before that: non-commercial team projects with fellow developers (2022–2023).
 
 ---
 
