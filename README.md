@@ -3,8 +3,8 @@
 AI student at **Harbin Engineering University** (China) with **2+ years of commercial full-stack experience** (PHP, Laravel, Symfony, Vue.js).
 I build AI products end to end, from the architecture to testing on real devices, and I document results honestly: measured, tested, limitations included.
 
-🎯 **Open to:** AI / ML engineering and full-stack internships (remote or in China)
-📫 **Contact:** diyordevwork@gmail.com · [LinkedIn](https://www.linkedin.com/in/muhammaddiyorabdulazimov)
+- 🎯 **Open to:** AI / ML engineering and full-stack internships (remote or in China)
+- 📫 **Contact:** diyordevwork@gmail.com · [LinkedIn](https://www.linkedin.com/in/muhammaddiyorabdulazimov)
 
 ---
 
