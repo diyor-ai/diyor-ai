@@ -31,7 +31,7 @@ I build AI products end to end, from the architecture to testing on real devices
 
 ### 🧰 Tech stack
 
-- **AI / ML:** Python · LLM APIs (Claude, structured output) · scikit-learn · PyTorch · NumPy · Pandas · OpenCV · MediaPipe
+- **AI / ML:** Python · PyTorch (inference, INT8 quantization, profiling) · ONNX Runtime · OpenVINO · LLM APIs (Claude, structured output) · scikit-learn · NumPy · Pandas · OpenCV · MediaPipe
 - **Backend:** FastAPI · PHP · Laravel · Symfony · PostgreSQL · MySQL · REST · WebSocket
 - **Frontend & mobile:** React · TypeScript · Vue.js · Flutter
 - **Engineering:** pytest · GitHub Actions · Docker · Git · Linux · AI coding agents (Claude Code)
